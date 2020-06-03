@@ -4,9 +4,10 @@
 }
 
 * {
+   box-sizing: border-box;
    margin: 0;
    padding: 0;
-   box-sizing: border-box;
+  
 }
 
 html {
@@ -14,7 +15,7 @@ html {
 }
 
 body {
-    background-image: linear-gradient(to right, #f0f0f5, #cbffff);
+    background-image: linear-gradient(to right, #f0f0f5, #B0E0E6);
     -webkit-font-smoothing: antialiased;
 }
 
