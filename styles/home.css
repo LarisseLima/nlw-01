@@ -1,13 +1,13 @@
 #page-home {
     height: 100vh;
     background: url('../icones/home-background.svg') no-repeat ;
-    background-position: 35vw 120px;
+    background-position: 35vw bottom;
 }
 
 #page-home .content {
     width: 90%;
     max-width: 1100px;
-    height: 100px;
+    height: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -69,6 +69,9 @@
 
 #page-home main a:hover{
     background-color: #2fb86e;
+    transition: 0.7s ease;
+    box-shadow: 0 0 5px #333;
+    transform: scale(1.05);
   }
 
   #page-home main a span{
