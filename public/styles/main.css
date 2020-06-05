@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background-image: linear-gradient(to right, #f0f0f5, #AFEEEE);
+    background-image: linear-gradient(to right, #AFEEEE , #E0FFFF);
     -webkit-font-smoothing: antialiased;
 }
 
