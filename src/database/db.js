@@ -12,12 +12,12 @@ db.serialize(() => {
     // com commandos SQL eu vou:
 
     // // 1 Criar uma tabela 
-    //db.run(`
-    //CREATE TABLE IF NOT EXISTS places (
-    //id INTEGER PRIMARY KEY AUTOINCREMENT,
-    //image TEXT,
-    //name TEXT,
-    //address TEXT,
+    // db.run(`
+    // CREATE TABLE IF NOT EXISTS places (
+    // id INTEGER PRIMARY KEY AUTOINCREMENT,
+    // image TEXT,
+    // name TEXT,
+    // address TEXT,
     // address2 TEXT,
     // state TEXT,
     // city TEXT,
@@ -30,11 +30,11 @@ db.serialize(() => {
     // INSERT INTO places (
     // image,
     // name,
-    //address,
-    //address2,
+    // address,
+    // address2,
     // state,
     // city,
-    //items
+    // items
     // ) VALUES (?,?,?,?,?,?,?);
     // `
 
