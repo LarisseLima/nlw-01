@@ -22,4 +22,4 @@ Node.js.<br>
 
 [ LinkedIn ](https://www.linkedin.com/in/larisselima/)
 
-Desenvolvido por Larisse Lima ☕ .
+Desenvolvido por Larisse Lima ☕ 
