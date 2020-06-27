@@ -1,4 +1,4 @@
-<strong>NEXT LEVEL WEEK</strong><br>
+#NEXT LEVEL WEEK <br>
 
 O projeto Ecoleta está sendo criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.<br>
 
