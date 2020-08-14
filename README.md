@@ -1,16 +1,29 @@
-# NEXT LEVEL WEEK <br>
+<h1 align="center" >
+    ECOLETA
+</h1>
 
-O projeto Ecoleta está sendo criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente e sustentável.<br>
+<h3 align="center">
+    O projeto Ecoleta está sendo criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente e sustentável.
+</h3>
 
-Linguagens utilizadas: 
-Html <br>
-Css <br>
-JavaScript <br>
-Express<br>
-Nunjucks<br>
-Nodemon<br>
-SQLite<br>
-Node.js.<br>
+
+
+
+## 🛠 Tecnologias
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+
+- HTML
+- CSS
+- JavaScript
+- Node.js 
+- Nunjucks 
+- SQLite 
+
+
+
+Desenvolvido com ☕  por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
 
 <img src="prints/print1.png">
 <img src="prints/print2.png">
@@ -20,6 +33,3 @@ Node.js.<br>
 <img src="prints/print6.png">
 
 
-[ LinkedIn ](https://www.linkedin.com/in/larisselima/)
-
-Desenvolvido por Larisse Lima ☕ 
