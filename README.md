@@ -22,8 +22,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - SQLite 
 
 
+## 🎨 Layout
 
-Desenvolvido com ☕  por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
 
 <img src="prints/print1.png">
 <img src="prints/print2.png">
@@ -33,3 +33,4 @@ Desenvolvido com ☕  por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com
 <img src="prints/print6.png">
 
 
+Desenvolvido com ☕  por Larisse Lima >>> [Linkedin](https://www.linkedin.com/in/larisselima/)
