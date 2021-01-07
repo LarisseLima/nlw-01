@@ -33,4 +33,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <img src="prints/print6.png">
 
 
-Desenvolvido com ☕  <br>por Larisse Lima 
+<p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
