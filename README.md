@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    O projeto Ecoleta foi criado para gerenciar o processo de coleta de lixo nas cidades. É possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente e sustentável no seu dia.
+    O projeto Ecoleta foi criado para gerenciar o processo de coleta de lixo nas cidades. Com isso, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente e sustentável no seu dia.
 </h3>
 
 ## 🛠 Tecnologias
